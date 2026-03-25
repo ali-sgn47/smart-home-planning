@@ -2,7 +2,7 @@
 # Smart Home MAS — Planning Extension
 
 Système Multi-Agents pour une Smart Home intelligente.
-Extension du projet L3 Agents Cognitifs avec planification MDP, apprentissage par renforcement (Q-Learning) et raisonnement logique (Forward Chaining).
+Extension du projet L3 Agents intelligent avec planification MDP, apprentissage par renforcement (Q-Learning) et raisonnement logique (Forward Chaining).
 
 ---
 
